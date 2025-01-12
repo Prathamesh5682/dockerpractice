@@ -30,3 +30,4 @@ public class Factorial{
         System.out.println("Result : "+result);
     }
 }
+
